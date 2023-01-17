@@ -1,4 +1,4 @@
-# About us
+# Members
 
 <table>
     <tbody>
@@ -11,7 +11,7 @@
                 <sub><b>Github profile</b></sub>
                 </a>
                 <br>
-                <a href="www.linkedin.com/in/david-slatinek">
+                <a href="https://www.linkedin.com/in/david-slatinek/">
                 <sub><b>LinkedIn profile</b></sub>
                 </a>
             </td>
