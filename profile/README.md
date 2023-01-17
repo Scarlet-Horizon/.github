@@ -1,4 +1,6 @@
-![Organization logo](logo.png)
+<div align="center">
+    <img src="logo.png" alt="Organization logo" width="400px">
+</div>
 
 # Members
 
