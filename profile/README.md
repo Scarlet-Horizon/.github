@@ -8,7 +8,7 @@
     <tbody>
         <tr>
             <td align="center">
-                <div align="center" style="margin-bottom: 5px;">David Slatinek</div>
+                <div align="center" style="margin-bottom: 10px;">David Slatinek</div>
                 <img src="https://avatars.githubusercontent.com/u/79467409?v=4" width="100px;" alt="David Slatinek Github avatar"/>
                 <br/>
                 <a href="https://github.com/david-slatinek">
@@ -20,7 +20,7 @@
                 </a>
             </td>
             <td align="center">
-                <div align="center" style="margin-bottom: 5px;">Gašper Funda Povše</div>
+                <div align="center" style="margin-bottom: 10px;">Gašper Funda Povše</div>
                 <img src="https://avatars.githubusercontent.com/u/39793309?v=4" width="100px;" alt="Gašper Funda Povše Github avatar"/>
                 <br/>
                 <a href="https://github.com/GasperFunda">
@@ -32,7 +32,7 @@
                 </a>
             </td>
             <td align="center">
-                <div align="center" style="margin-bottom: 5px;">Timotej Kolar</div>
+                <div align="center" style="margin-bottom: 10px;">Timotej Kolar</div>
                 <img src="https://avatars.githubusercontent.com/u/79761350?v=4" width="100px;" alt="Timotej Kolar Github avatar"/>
                 <br/>
                 <a href="https://github.com/TimotejKolar">
